@@ -9,13 +9,14 @@ Day 11 to 30 : Learn about the basic data structures ->
 (i) Arrays
 (ii)Linked List
 (iii) Stacks and Queues
+
 Some important Suggestion from Nishant Chahar > From Now, start giving contests and learn the new concepts that come along the way. You might not do well in the first few but it’s okay! Just keep learning and keep growing.
 
 Day 31 to 45 : Learn about more and a little more complex data structures and algorithms ->
 
 (i) Searching
 
-(ii) Sorting {
+(ii) Sorting
 
              \1\ Bubble Sort
              \2\ Insertion Sort
@@ -28,7 +29,7 @@ Day 31 to 45 : Learn about more and a little more complex data structures and al
 
 (v)Heaps
 
-(Vi)Sliding Window
+(vi)Sliding Window
 
 Day 46 to 70 : Learn about DP and Graphs ->
 
