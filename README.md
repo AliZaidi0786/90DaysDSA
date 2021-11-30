@@ -7,7 +7,9 @@ Day 3 to 10 : Learn about recursion and backtracking. One of the most important 
 Day 11 to 30 : Learn about the basic data structures ->
 
 (i) Arrays
+
 (ii)Linked List
+
 (iii) Stacks and Queues
 
 Some important Suggestion from Nishant Chahar > From Now, start giving contests and learn the new concepts that come along the way. You might not do well in the first few but it’s okay! Just keep learning and keep growing.
