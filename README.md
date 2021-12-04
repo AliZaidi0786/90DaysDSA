@@ -1,9 +1,17 @@
 # 90DaysDSA
 ![image](https://user-images.githubusercontent.com/67678361/144093943-4e2d9a67-8121-4304-a82e-3b595fd94cae.png)
-Day 1
 
-•    Learned about time complexity.
+90DaysDSA
+Day 1 - 2
 
-•    Big Oh, Big Omega, Big Theta, Little Oh, Little Omega
+• Learned about time and space complexity.
 
-•    Solved various problems
+• Big Oh, Big Omega, Big Theta, Little Oh, Little Omega
+
+• Solved various problems
+
+Day 3-10
+
+• Learned about recursion and backtracking
+
+• Solved various questions
