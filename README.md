@@ -13,6 +13,16 @@ Day 1 - 2
 
 Day 3-10
 
-• Learned about recursion and backtracking
+•    Learned about recursion and backtracking
 
-• Solved various questions
+•    Solved various questions 
+
+Day 11-30
+
+•    Learn about the basic Data Structure
+
+•    Array
+
+•    Linked List
+
+•    Stacks & Queues
